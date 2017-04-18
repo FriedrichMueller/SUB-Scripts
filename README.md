@@ -1,7 +1,7 @@
 # SUB-Scripts
 Different scripts for different usage
 
-## Geocode:
+## Geocode
 ### geocode_geoname_example.java
 * Example script to geocode with geonames.org. Can be easily extended with FileReader and FileWriter.
 
